@@ -38,4 +38,4 @@ Stock Trading Simulator is a Java-based application that simulates stock market 
 ## Author
 
 Rohan Khachane
-# StockTrading-Java
+
